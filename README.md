@@ -24,7 +24,8 @@ Packet captures were reviewed using targeted display filters to isolate anomalou
 * **Observation:** The host successfully established outbound HTTP connections to suspicious target IPs[cite: 3].
 
 
-<img width="1352" height="227" alt="using wireshark command request method get  for IOCS header" src="https://github.com/user-attachments/assets/601432e5-e899-40fb-9ae9-7ee1e4c16258" />
+<img width="1352" height="227" alt="using wireshark command request method get  for IOCS header" src="https://github.com/user-attachments/assets/5e369d2b-d7aa-4d02-beca-807da13c4486" />
+
 
 ---
 
